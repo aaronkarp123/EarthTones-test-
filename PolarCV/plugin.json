@@ -1,0 +1,23 @@
+{
+  "slug": "PolarCV",
+  "name": "PolarCV",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "EarthTones",
+  "author": "Aaron Karp",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "PolarCV",
+      "name": "PolarCV",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
