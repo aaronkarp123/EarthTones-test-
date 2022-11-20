@@ -1,0 +1,23 @@
+{
+  "slug": "Clouds",
+  "name": "Clouds",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "Polar",
+  "author": "aaronkarp",
+  "authorEmail": "aaronkarp123@gmail.com",
+  "authorUrl": "aaronmkarp.com",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Clouds",
+      "name": "Clouds",
+      "description": "",
+      "tags": []
+    }
+  ]
+}

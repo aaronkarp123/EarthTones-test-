@@ -1,0 +1,23 @@
+{
+  "slug": "PolarCV",
+  "name": "PolarCV",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "Polar",
+  "author": "Aaron Karp",
+  "authorEmail": "aaronkarp123@gmail.com",
+  "authorUrl": "https://aaronmkarp.com",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "PolarCV",
+      "name": "PolarCV",
+      "description": "A CV generator using a polar coordinate system",
+      "tags": []
+    }
+  ]
+}

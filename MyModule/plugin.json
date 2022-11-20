@@ -1,0 +1,23 @@
+{
+  "slug": "MyModule",
+  "name": "MyModule",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "MyModule",
+  "author": "Me",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "MyModule",
+      "name": "MyModule",
+      "description": "This is a first module",
+      "tags": ["Oscillator"]
+    }
+  ]
+}
