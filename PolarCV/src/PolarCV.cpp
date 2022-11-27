@@ -50,6 +50,7 @@ struct PolarCV : Module {
     bool speed_input_connected = false;
     float speed = 0.f;
     float speed_range_slope = 1.0 * (0.02f - 0.0001f) / (0.f - 10.f);
+    float theta_mod = M_PI * 128;
     
     struct Point {
         float minX[16] = {};
@@ -142,6 +143,9 @@ struct PolarCV : Module {
         theta_delta = speed * M_PI / 1000.0f * (time_mults[time_mult_idx] * time_mults[time_mult_idx]) + 0.000001f;
         
         cur_theta = cur_theta + theta_delta;
+        if (cur_theta > theta_mod){
+            cur_theta = cur_theta - theta_mod;
+        }
         
         float A = params[A_DIAL_PARAM].getValue() / 2.0f;
         float B = params[B_DIAL_PARAM].getValue() / 2.0f;
