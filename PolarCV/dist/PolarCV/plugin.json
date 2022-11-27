@@ -5,8 +5,8 @@
   "license": "proprietary",
   "brand": "EarthTones",
   "author": "Aaron Karp",
-  "authorEmail": "",
-  "authorUrl": "",
+  "authorEmail": "aaronkarp123@gmail.com",
+  "authorUrl": "https://aaronmkarp.com",
   "pluginUrl": "",
   "manualUrl": "",
   "sourceUrl": "",
@@ -17,7 +17,7 @@
       "slug": "PolarCV",
       "name": "PolarCV",
       "description": "",
-      "tags": []
+      "tags": ["Function generator", "Low-frequency oscillator", "Utility", "Visual"]
     }
   ]
 }
