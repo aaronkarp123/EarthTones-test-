@@ -2,7 +2,7 @@
   "slug": "Polar",
   "name": "PolarCV",
   "version": "2.0.0",
-  "license": "proprietary",
+  "license": "GPL-3.0-or-later",
   "brand": "EarthTones",
   "author": "Aaron Karp",
   "authorEmail": "aaronkarp123@gmail.com",
